@@ -1,0 +1,8 @@
+uk:
+  errors:
+    messages:
+      not_a_date: "не є датою"
+      after: "повинна бути пізніше ніж %{date}"
+      after_or_equal_to: "повинна бути пізніше або такою ж як %{date}"
+      before: "повинна бути раніше ніж %{date}"
+      before_or_equal_to: "повинна бути раніше або такою ж як %{date}"
